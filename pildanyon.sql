@@ -2,7 +2,8 @@
 SQLyog Enterprise v10.42 
 MySQL - 5.5.5-10.1.16-MariaDB : Database - pildanyon
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
@@ -12,9 +13,6 @@ MySQL - 5.5.5-10.1.16-MariaDB : Database - pildanyon
 /*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
-CREATE DATABASE /*!32312 IF NOT EXISTS*/`pildanyon` /*!40100 DEFAULT CHARACTER SET latin1 */;
-
-USE `pildanyon`;
 
 /*Table structure for table `t_admin` */
 
